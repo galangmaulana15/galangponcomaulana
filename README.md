@@ -20,7 +20,7 @@
 ## ⚡ Tech Stack (Complete Skills)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css,react,nodejs,express,laravel,bootstrap,tailwind,postgres,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,html,css,react,nodejs,express,laravel,bootstrap,tailwind,postgres,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
