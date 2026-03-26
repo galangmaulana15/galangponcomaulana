@@ -33,38 +33,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 Client Management System (Fullstack App)
-
-✔ REST API + JWT Authentication
-✔ PostgreSQL Database
-✔ Clean Architecture
-
-🔗 https://github.com/galangmaulana15/client-management
-🌐 Live Demo: https://client-app.vercel.app
-
----
-
-### 🎵 Ronco Musical (Spotify Clone)
-
-✔ Liked Album
-✔ Playlist System
-✔ Responsive UI
-
-🔗 https://github.com/galangmaulana15/ronco-musical
-
----
-
-### 🌦️ Weather App (API Integration)
-
-✔ Fetch API
-✔ Real-time Data
-✔ Modern UI
-
-🔗 https://github.com/galangmaulana15/weather-app
-
----
 
 ## 📊 GitHub Analytics
 
