@@ -33,14 +33,6 @@
 
 ---
 
-## 🌍 Programming Languages Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔥 Client Management System (Fullstack App)
@@ -91,12 +83,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake GL
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Yuuashura/Yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
-
 ---
 
 ## 🧩 Current Focus
