@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOM TO MY PROFILE&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=40&fontColor=ffffff"/>
 
 <h1 align="center">🚀 Galang Ponco</h1>
-<h3 align="center">Fullstack Developer | React • Node.js • PostgreSQL</h3>
+<h3 align="center">Fullstack Developer | React • Node.js • Laravel • PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Fullstack+Developer;Open+to+Work;Clean+Code+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Node+%7C+Laravel;Building+Modern+Web+Apps;Open+to+Work" />
 </p>
 
 ---
@@ -17,11 +17,28 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (Complete Skills)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,,python,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css,react,nodejs,express,laravel,bootstrap,tailwind,postgres,mysql,git,github,vscode&theme=dark" />
 </p>
+
+---
+
+## 🧰 Tools & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,npm,firebase,figma&theme=dark" />
+</p>
+
+---
+
+## 🌍 Programming Languages Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -33,7 +50,6 @@
 ✔ Clean Architecture
 
 🔗 https://github.com/galangmaulana15/client-management
-
 🌐 Live Demo: https://client-app.vercel.app
 
 ---
@@ -75,20 +91,26 @@
 
 ---
 
-## 🧩 Current Focus
+## 🐍 Contribution Snake
 
-* 🔐 Authentication System (JWT)
-* ⚛️ Advanced React (Hooks & State)
-* ⚙️ Backend Architecture
+<p align="center">
+  <img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
+## 🧩 Current Focus
+
+* 🔐 Authentication System (JWT)
+* ⚛️ Advanced React Development
+* ⚙️ Backend Architecture (Node & Laravel)
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Galang Ponco">
+  <a href="https://linkedin.com/in/galangponco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:galangponco123@gmail.com">
@@ -103,3 +125,5 @@
 <p align="center">
   <em>"First, solve the problem. Then, write the code."</em>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00F7FF,100:000000&height=150&section=footer"/>
