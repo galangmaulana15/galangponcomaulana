@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Galang%20Ponco&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOM TO MY PROFILE&fontSize=40&fontColor=ddddd"/>
 
 <h1 align="center">🚀 Galang Ponco</h1>
 <h3 align="center">Fullstack Developer | React • Node.js • PostgreSQL</h3>
@@ -20,17 +20,8 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,c++,python,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,,python,js,html,css,git,github,vscode&theme=dark" />
 </p>
-
----
-
-## 🌍 Programming Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -92,18 +83,12 @@
 
 ---
 
-## 🏆 Achievements
-
-<img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
-
----
-
 <img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/username">
+  <a href="https://linkedin.com/in/Galang Ponco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:galangponco123@gmail.com">
