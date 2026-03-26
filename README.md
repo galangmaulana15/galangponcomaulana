@@ -28,7 +28,7 @@
 ## 🌍 Programming Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -94,11 +94,11 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=galangmaulana15&theme=tokyonight&no-frame=true&row=1" />
-</p>
+<img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
 
 ---
+
+<img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
 
 ## 🌐 Connect With Me
 
