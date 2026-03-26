@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOM TO MY PROFILE&fontSize=40&fontColor=ddddd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOM TO MY PROFILE&fontSize=40&fontColor=ffffff"/>
 
 <h1 align="center">🚀 Galang Ponco</h1>
 <h3 align="center">Fullstack Developer | React • Node.js • PostgreSQL</h3>
