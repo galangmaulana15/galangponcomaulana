@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Galang%20Ponco&fontSize=40&fontColor=ffffff"/>
+
 <h1 align="center">🚀 Galang Ponco</h1>
 <h3 align="center">Fullstack Developer | React • Node.js • PostgreSQL</h3>
 
@@ -19,7 +20,15 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,c++,python,js,html,css,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🌍 Programming Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangmaulana15&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -32,7 +41,7 @@
 ✔ PostgreSQL Database
 ✔ Clean Architecture
 
-🔗 https://github.com/username/client-management
+🔗 https://github.com/galangmaulana15/client-management
 
 🌐 Live Demo: https://client-app.vercel.app
 
@@ -44,7 +53,7 @@
 ✔ Playlist System
 ✔ Responsive UI
 
-🔗 https://github.com/username/ronco-musical
+🔗 https://github.com/galangmaulana15/ronco-musical
 
 ---
 
@@ -54,15 +63,15 @@
 ✔ Real-time Data
 ✔ Modern UI
 
-🔗 https://github.com/username/weather-app
+🔗 https://github.com/galangmaulana15/weather-app
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galangmaulana15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=galangmaulana15&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -70,7 +79,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galangmaulana15&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF" />
 </p>
 
 ---
@@ -80,6 +89,14 @@
 * 🔐 Authentication System (JWT)
 * ⚛️ Advanced React (Hooks & State)
 * ⚙️ Backend Architecture
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=galangmaulana15&theme=tokyonight&no-frame=true&row=1" />
+</p>
 
 ---
 
