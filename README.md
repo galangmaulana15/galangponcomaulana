@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">🚀 Galang Ponco</h1>
+<h1 align="center">🚀 Galang Ponco Maulana</h1>
 <h3 align="center">Fullstack Developer | React • Node.js • Laravel • PostgreSQL</h3>
 
 <p align="center">
@@ -20,19 +20,31 @@
 ## ⚡ Tech Stack (Complete Skills)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,html,css,react,nodejs,express,laravel,bootstrap,tailwind,postgres,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,js,ts,html,css,react,nodejs,express,laravel,bootstrap,tailwind,postgres,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧰 Tools & Frameworks
+## 🧰 Tools & Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,npm,firebase,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman,npm&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DBeaver-Database-blue?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-Localhost-orange?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
 
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galangmaulana15&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -51,11 +63,12 @@
 
 ---
 
-## 🐍 Contribution Snake GL
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Yuuashura/Yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/galangmaulana15/galangmaulana15/output/github-contribution-grid-snake.svg"/>
 </p>
+
 ---
 
 ## 🧩 Current Focus
